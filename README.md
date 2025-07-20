@@ -1,6 +1,6 @@
 # SABR Model Calibration and Option Pricing
 
-This project calibrates the SABR model to market data for options on the Dow Jones Index (DJX) and then uses the calibrated model to price an Asian option via Monte Carlo simulation.
+This project calibrates the SABR model to market data for options on the Dow Jones Index (DJX) and then uses the calibrated model to price an Asian option via Monte Carlo simulation. The repository was made from an initial notebook, which can also be found here.
 
 ## Structure
 
